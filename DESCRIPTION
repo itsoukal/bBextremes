@@ -1,0 +1,12 @@
+Package: bBextremes
+Type: Package
+Title: Distribution of extremes (maxima) of Nataf-based (Gaussian copula) stochastic processes with any marginal distribution and autocorrelation structure
+Version: 0.1.0
+Authors@R: c( person("Ioannis", "Tsoukalas", role = c("aut", "cre", "ctb"), email = "itsoukal@mail.ntua.gr") )
+Author: Ioannis Tsoukalas [aut, cre, ctb]                     
+Maintainer: Ioannis Tsoukalas <itsoukal@mail.ntua.gr>
+Description: Estimate the distribution of extremes (maxima) of a Nataf-based (Gaussian copula) process with any marginal distribution and autocorrelation structure (ACS) using an approximation based on the beta-Binomial distribution.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
